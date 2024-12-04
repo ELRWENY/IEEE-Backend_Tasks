@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\IEEE\\Tasks\\task_2_v1\\TASK\\TASK.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\IEEE\\IEEE-Backend_Tasks\\task_2_v1\\TASK\\TASK.csproj",
       "projectName": "TASK",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\IEEE\\Tasks\\task_2_v1\\TASK\\TASK.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\IEEE\\IEEE-Backend_Tasks\\task_2_v1\\TASK\\TASK.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\IEEE\\Tasks\\task_2_v1\\TASK\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\IEEE\\IEEE-Backend_Tasks\\task_2_v1\\TASK\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
